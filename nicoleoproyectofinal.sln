@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nicolpfinal.api", "nicolpfinal.api\nicolpfinal.api.csproj", "{0E09EDC1-B36C-46E2-B512-CCD46D5E6E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nicolefinal.web", "nicolefinal.application\nicolefinal.web.csproj", "{A3A02750-91E7-41F2-8D3C-CCA3000BF44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nicolefinal.infrastructure", "nicolefinal.infrastructure\nicolefinal.infrastructure.csproj", "{42841762-92B6-436E-8CDD-1C1D341F634B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nicolef.domain", "nicolef.domain\nicolef.domain.csproj", "{519CFDA3-76C6-4854-BEB0-7B6219FAD134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nicolefinal.IOC", "nicolefinal.IOC\nicolefinal.IOC.csproj", "{322B66FE-6075-43D1-9909-D3AB55E1579F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalnicole.application", "finalnicole.application\finalnicole.application.csproj", "{5A8EE166-1E87-48F2-8BEC-E5B28DA24527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E09EDC1-B36C-46E2-B512-CCD46D5E6E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E09EDC1-B36C-46E2-B512-CCD46D5E6E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E09EDC1-B36C-46E2-B512-CCD46D5E6E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E09EDC1-B36C-46E2-B512-CCD46D5E6E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A02750-91E7-41F2-8D3C-CCA3000BF44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A02750-91E7-41F2-8D3C-CCA3000BF44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A02750-91E7-41F2-8D3C-CCA3000BF44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A02750-91E7-41F2-8D3C-CCA3000BF44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42841762-92B6-436E-8CDD-1C1D341F634B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42841762-92B6-436E-8CDD-1C1D341F634B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42841762-92B6-436E-8CDD-1C1D341F634B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42841762-92B6-436E-8CDD-1C1D341F634B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519CFDA3-76C6-4854-BEB0-7B6219FAD134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519CFDA3-76C6-4854-BEB0-7B6219FAD134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519CFDA3-76C6-4854-BEB0-7B6219FAD134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519CFDA3-76C6-4854-BEB0-7B6219FAD134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322B66FE-6075-43D1-9909-D3AB55E1579F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322B66FE-6075-43D1-9909-D3AB55E1579F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322B66FE-6075-43D1-9909-D3AB55E1579F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322B66FE-6075-43D1-9909-D3AB55E1579F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8EE166-1E87-48F2-8BEC-E5B28DA24527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8EE166-1E87-48F2-8BEC-E5B28DA24527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8EE166-1E87-48F2-8BEC-E5B28DA24527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8EE166-1E87-48F2-8BEC-E5B28DA24527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80CC669-8DD3-431C-A011-12DC002B6A26}
+	EndGlobalSection
+EndGlobal
